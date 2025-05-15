@@ -1,6 +1,6 @@
 # Collecting Historic and Environmental Elements using CNN
 
-**Authors:** Pari Singh (Second Author)  
+**Authors:** Pari Singh (First Author)  
 **Conference/Journal:** IJIRT (International Journal for Innovative Research in Technology)  
 **Status:** Accepted for publication/presentation  
 **Date:** April 2024
